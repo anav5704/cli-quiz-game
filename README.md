@@ -1,4 +1,4 @@
-# CLI Quote Quiz
+# CLI Quote Quiz 🕹️
 
 This is a simple terminal-based quiz based on some quotes my friends have said. The game is simple. Guess who said the quote or be deemed a **fake friend!**
 
