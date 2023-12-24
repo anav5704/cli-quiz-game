@@ -1,6 +1,6 @@
 # CLI Quote Quiz 🕹️
 
-This is a simple terminal-based quiz based on some quotes my friends have said. The game is multiple choice game of 5 questions and it ends if you get 1 wrong.
+This is a simple terminal-based quiz based on some quotes my friends have said. The game is a multiple-choice game of 5 questions and it ends if you get 1 wrong.
 
 ## Libraries Used
 
@@ -11,7 +11,7 @@ This is a simple terminal-based quiz based on some quotes my friends have said. 
 
 ## Getting Started
 
-Make sure you have ```node v20+``` installed. Clone the repo and install all the required dependencies by running ```npm install```. Then Start the game by running ```node index.js``` or ```node .```. Enjoy.
+Make sure you have ```node v20+``` installed. Clone the repo and install all the required dependencies by running ```npm install```. Then Start the game by running ```node index.js``` or ```node .```
 
 ## Learning Resources
 
